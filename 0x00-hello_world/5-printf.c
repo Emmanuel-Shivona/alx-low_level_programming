@@ -17,8 +17,8 @@ int main(void)
  *Name: printf
  *Return value: Returns the specified message
  *
- *Description - The function outputs the specified message to the standard output
+ *Description - Outputs the specified message to the standard output
  */
-  printf("with proper grammar, but the outcome is a piece of art,\n");
-  return (0);
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
