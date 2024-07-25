@@ -1,24 +1,22 @@
 /**
- *Name: 5-printf.c
- *Author: Emmanuel-Shivona
- *Description - The program send a specific message to the output
+ * 5-printf.c - A simple program that prints a specific message
+ *
+ * Author: Emmanuel-Shivona
+ *
+ * Description: The program sends a specific message to the output.
  */
 
-/**
- *Name: main
- *Return value: returns 0 if program runs successfully
- *
- *Description - The program's entry point
- */
 #include <stdio.h>
+
+/**
+ * main - Entry point of the program
+ *
+ * Desciption: This function serves as the entry point for the program.
+ * Return: 0 if the program runs successfully.
+ */
+
 int main(void)
 {
-/**
- *Name: printf
- *Return value: Returns the specified message
- *
- *Description - Outputs the specified message to the standard output
- */
-printf("with proper grammar, but the outcome is a piece of art,\n");
-return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
