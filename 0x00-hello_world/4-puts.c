@@ -8,11 +8,11 @@
 /**
  * main - Entry point of the program
  *
- * Description: Prints a specific message to the console
  * Return: 0 if success, otherwise if failure
  */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle");
+	char str[] = "\"Programming is like building a multilingual puzzle,";
+	puts(str);
 	return (0);
 }

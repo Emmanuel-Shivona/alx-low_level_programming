@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+void Sayhi(char name[20]){
+	printf("hello, user\n");
+}
+
+int main(){
+	Sayhi();
+	return (0);
+}
