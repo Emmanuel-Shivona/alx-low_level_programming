@@ -1,9 +1,3 @@
-/**
- *File - 4-puts.c
- *Author: Emmanuel-Shivona
- *
- *Description: The program sends a message to the output
- */
 #include <stdio.h>
 /**
  *main - Entry point of the program

@@ -1,11 +1,3 @@
-/**
- * 5-printf.c - A simple program that prints a specific message
- *
- * Author: Emmanuel-Shivona
- *
- * Description: The program sends a specific message to the output.
- */
-
 #include <stdio.h>
 
 /**
@@ -19,4 +11,3 @@ int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-}
